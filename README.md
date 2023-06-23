@@ -1,2 +1,2 @@
-# Sign_language_classification
+# Sign-Language-Classification
 Machine Learning Project at SYNC
